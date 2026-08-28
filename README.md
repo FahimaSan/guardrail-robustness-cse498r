@@ -38,7 +38,7 @@ Full methodology in `paper/draft_paper.docx`, Sections 3.5 and 5.
 docs/       Interactive results explorer (GitHub Pages source)
 notebook/   Full pipeline notebook, executed with outputs preserved
 results/    Per-attempt data (CSV) and summary figure
-paper/      Draft paper, project summary, and presentation notes
+paper/      Draft paper, weekly plans
 ```
 
 ## Reproducing this work
