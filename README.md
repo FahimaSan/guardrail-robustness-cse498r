@@ -1,7 +1,9 @@
 # Robustness of Prompt-Injection Guardrails Against Adaptive and Fragmentation-Based Attacks
 
-CSE498R Directed Research, Department of Electrical and Computer Engineering, North South University
+CSE498R Directed Research, 
 Fahima Shameem , Farjana Rahman Samia  - Supervisor: Mohammad Shifat-E-Rabbi
+Department of Electrical and Computer Engineering, North South University
+
 
 ## Overview
 
