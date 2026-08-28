@@ -17,7 +17,7 @@ PromptGuard provides a statistically significant reduction in attack success rat
 
 | Attack | No Defense ASR | PromptGuard ASR | p-value | Result |
 |:---|---:|---:|---:|:---|
-| Static | 20.8% | 12.8% | 0.0226 | Significant |
+| Static | 20.8% | 12.4% | 0.0159 | Significant |
 | Adaptive | 20.8% | 17.6% | 0.4268 | Not significant |
 | Fragmented | 10.8% | 7.2% | 0.2109 | Not significant |
 | DSPy-Adaptive | 19.6% | 16.0% | 0.3497 | Not significant |
