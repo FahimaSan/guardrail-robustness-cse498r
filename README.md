@@ -7,7 +7,7 @@ Fahima Shameem , Farjana Rahman Samia  - Supervisor: Mohammad Shifat-E-Rabbi
 
 This project evaluates whether publicly available prompt-injection guardrail classifiers provide statistically meaningful protection against a range of attack strategies, from direct injection to two original attack methods introduced in this work. The target model is Qwen2.5-7B-Instruct; the guardrails evaluated are ProtectAI's deberta-v3-base-prompt-injection-v2 and deepset's deberta-v3-base-injection.
 
-Live demo: [Attack Replay Console](https://github.com/FahimaSan/guardrail-robustness-cse498r.git)
+Live demo: [Attack Replay Console](docs/index.html)
 
 ![Results chart](results/results_chart.png)
 
