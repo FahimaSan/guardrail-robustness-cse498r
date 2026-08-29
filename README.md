@@ -20,7 +20,7 @@ PromptGuard showed its largest observed reduction in attack success rate against
 
 | Attack | No Defense ASR | PromptGuard ASR | p-value | Result |
 |:---|---:|---:|---:|:---|
-| Static | 20.8% | 12.8% | 0.0226 | Significant (different story after validation) |
+| Static | 20.8% | 12.8% | 0.0226 | Significant (Raw p < 0.05; not significant after correction.) |
 | Adaptive | 20.8% | 17.6% | 0.4268 | Not significant |
 | Fragmented | 10.8% | 7.2% | 0.2109 | Not significant |
 | DSPy-Adaptive | 19.6% | 16.0% | 0.3497 | Not significant |
