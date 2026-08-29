@@ -18,9 +18,9 @@ The main comparison was between the No-Defense baseline and PromptGuard across f
 | Attack        | No Defense ASR | PromptGuard ASR | p-value | Cohen's h |
 | ------------- | -------------: | --------------: | ------: | --------: |
 | Static        |          20.8% |           12.8% |  0.0226 |     0.215 |
-| Adaptive      |          20.8% |           17.6% |  0.4268 |     0.071 |
-| Fragmented    |          10.8% |            7.2% |  0.2109 |     0.124 |
-| DSPy-Adaptive |          19.6% |           16.0% |  0.3497 |     0.092 |
+| Adaptive      |          20.8% |           17.6% |  0.4268 |     0.081 |
+| Fragmented    |          10.8% |            7.2% |  0.2109 |     0.126 |
+| DSPy-Adaptive |          19.6% |           16.0% |  0.3497 |     0.094 |
 
 The Static attack produced the largest observed reduction in attack success rate, from 20.8% to 12.8%.
 
