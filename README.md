@@ -15,11 +15,12 @@ Live demo: [Attack Replay Console](https://fahimasan.github.io/guardrail-robustn
 
 ## Key finding
 
-PromptGuard provides a statistically significant reduction in attack success rate only against a direct, unmodified attack. Against three more sophisticated strategies — including both attacks introduced in this work — no statistically significant protection was observed.
+PromptGuard showed its largest observed reduction in attack success rate against the direct, unmodified Static attack. However, after correcting for the four attack-type comparisons using the Bonferroni method, the Static result did not remain statistically significant. The three other attack strategies also showed no statistically significant reduction.
+
 
 | Attack | No Defense ASR | PromptGuard ASR | p-value | Result |
 |:---|---:|---:|---:|:---|
-| Static | 20.8% | 12.4% | 0.0159 | Significant |
+| Static | 20.8% | 12.8% | 0.0226 | Significant (different story after validation) |
 | Adaptive | 20.8% | 17.6% | 0.4268 | Not significant |
 | Fragmented | 10.8% | 7.2% | 0.2109 | Not significant |
 | DSPy-Adaptive | 19.6% | 16.0% | 0.3497 | Not significant |
