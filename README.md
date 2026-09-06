@@ -9,7 +9,8 @@ Department of Electrical and Computer Engineering, North South University
 
 This project evaluates whether publicly available prompt-injection guardrail classifiers provide statistically meaningful protection against a range of attack strategies, from direct injection to two original attack methods introduced in this work. The target model is Qwen2.5-7B-Instruct; the guardrails evaluated are ProtectAI's deberta-v3-base-prompt-injection-v2 and deepset's deberta-v3-base-injection.
 
-Live demo: [Attack Replay Console](https://fahimasan.github.io/guardrail-robustness-cse498r/)
+At a glimpse to see the results ( many updates happened after so this is a demo only) 
+: [Attack Replay Console](https://fahimasan.github.io/guardrail-robustness-cse498r/)
 
 ![Results chart](results/results_chart.png)
 
