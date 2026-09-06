@@ -42,6 +42,7 @@ docs/       Interactive results explorer (GitHub Pages source)
 notebook/   Full pipeline notebook, executed with outputs preserved
 results/    Per-attempt data (CSV) and summary figure
 paper/      Draft paper, weekly plans
+Then Main Report with root
 ```
 
 ## Reproducing this work
